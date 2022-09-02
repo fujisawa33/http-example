@@ -1,4 +1,1 @@
-# logging-sample
-
-Go(echo) + Cloud Run + Cloud Loggingでログをきれいにするサンプル
-# http-sample
+# http-example
